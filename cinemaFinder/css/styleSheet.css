@@ -1,0 +1,26 @@
+#results {
+		font-family: 'Raleway', sans-serif;
+	}
+	#map{
+		float:right;
+		border:0;
+	}
+	#times {
+		color:#2296CF;
+	}
+
+	#clear {
+		clear:both;
+		height:15px;
+	}
+	#table_data {
+		float:left;
+	}
+	.container {
+		margin-left:0px;
+	}
+	
+	#search {
+		margin-top: 10%;
+	}
+
